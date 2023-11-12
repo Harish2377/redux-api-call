@@ -6,10 +6,10 @@ import { Link } from 'react-router-dom'
 function Footer() {
   return (
 
-    <div style={{width:'100%',height:'300px'}} className='  d-flex flex-column justify-content-center align-items-center bg-secondary mt-5 '>
+    <div style={{width:'100%',height:'300px'}} className='   d-flex flex-column justify-content-center align-items-center bg-secondary mt-5 '>
 
        
-    <div className="container-fluid footer-div  d-flex justify-content-evenly w-100 flex-wrap"  >
+    <div className="   footer-div  d-flex justify-content-evenly w-100 flex-wrap"  >
 
         <div className="website" style={{width:'400px',color:'Black'}} >
             <h4 className='mb-3' style={{fontWeight:'bold',color:'Black'}} > <Link to={'/'} style={{textDecoration:'none',color:'Black',fontWeight:'bold'}}><i class="fa-solid fa-utensils fa-flip"></i></Link>{'  '}
